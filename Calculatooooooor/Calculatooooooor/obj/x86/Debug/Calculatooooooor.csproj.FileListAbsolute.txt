@@ -1,0 +1,6 @@
+/Users/Kakashi/Desktop/GitLab1/Calculatooooooor/Calculatooooooor/bin/Debug/Calculatooooooor.exe
+/Users/Kakashi/Desktop/GitLab1/Calculatooooooor/Calculatooooooor/bin/Debug/Calculatooooooor.pdb
+/Users/Kakashi/Desktop/GitLab1/Calculatooooooor/Calculatooooooor/obj/x86/Debug/Calculatooooooor.csprojAssemblyReference.cache
+/Users/Kakashi/Desktop/GitLab1/Calculatooooooor/Calculatooooooor/obj/x86/Debug/Calculatooooooor.csproj.CoreCompileInputs.cache
+/Users/Kakashi/Desktop/GitLab1/Calculatooooooor/Calculatooooooor/obj/x86/Debug/Calculatooooooor.exe
+/Users/Kakashi/Desktop/GitLab1/Calculatooooooor/Calculatooooooor/obj/x86/Debug/Calculatooooooor.pdb
